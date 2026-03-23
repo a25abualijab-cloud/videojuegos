@@ -55,6 +55,7 @@ if (!$videojuego) {
                 <a class="btn btn-warning" href="listar.php">Volver</a>
             </div>
         </form>
+        <p>alo</p>
     </div>
 </div>
 <?php include_once "pie.php"; ?>

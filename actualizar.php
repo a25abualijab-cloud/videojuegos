@@ -35,3 +35,4 @@ WHERE id = ?");
 $sentencia->bind_param("ssi", $nombre, $descripcion, $id);
 $sentencia->execute();
 header("Location: listar.php");
+//holaaa
