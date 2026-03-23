@@ -33,3 +33,4 @@ if ($mysqli->connect_errno) {
 }
 return $mysqli;
 //provaaaa
+//nigga
